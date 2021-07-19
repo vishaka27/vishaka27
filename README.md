@@ -1,4 +1,4 @@
-### Hi there. Welcome to my profile 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Hi there. Welcome to my profile 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=vishaka27)
 
 
 - 🔭 I’m currently working as a Front End Engineer 
