@@ -5,7 +5,7 @@
 - 💬 Ask me about: HTML, CSS, JS, ReactJS
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vishaka27&show_icons=true&theme=gotham" alt="github stats" width="80%" height="50%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishaka27&show_icons=true&theme=gotham" alt="github stats" width="48%" align="right"/>
 
 
 
