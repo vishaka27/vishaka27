@@ -18,3 +18,9 @@
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaka27&theme=dark" width="48%">
+
+
+
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaka27&layout=compact)
