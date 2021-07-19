@@ -5,7 +5,16 @@
 - 💬 Ask me about: HTML, CSS, JS, ReactJS
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vishaka27&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishaka27&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+
+
+
+
+
+
+
+
+
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaka27&theme=dark" width="48%" >
