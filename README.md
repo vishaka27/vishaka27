@@ -17,4 +17,4 @@
 
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaka27&theme=dark" width="80%" height="100%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaka27&theme=dark" width="48%">
