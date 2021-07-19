@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**vishaka27/vishaka27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there. Welcome to my profile 👋
 
 
 - 🔭 I’m currently working as a Front End Engineer 
