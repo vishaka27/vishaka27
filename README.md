@@ -12,7 +12,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaka27&theme=dark" width="50%">
 
 
-
+### <ins>Tech Stacks</ins>
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaka27&layout=compact)
