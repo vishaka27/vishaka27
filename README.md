@@ -6,19 +6,10 @@
 - 📫 How to reach me: <a href="mailto: veenu.n2009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/vishaka-nagarajan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vishaka27&show_icons=true&theme=gotham" alt="github stats" width="48%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishaka27&show_icons=true&theme=gotham" alt="github stats" width="50%" align="left"/>
 
 
-
-
-
-
-
-
-
-
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaka27&theme=dark" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaka27&theme=dark" width="50%">
 
 
 
